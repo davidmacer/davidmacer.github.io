@@ -1,4 +1,7 @@
-body {
+div {
     text-align: center;
     background-color: brown;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
 }
