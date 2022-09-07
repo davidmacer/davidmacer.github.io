@@ -2,6 +2,12 @@ body {
   background-image: url(https://external-preview.redd.it/wkEeZ1UT_mlB281e6EPDRPU7cqIm98gzbDblqPQAWYU.jpg?auto=webp&s=ec541f118eb24e3ea1cbc5a9508ce3c292048a89);
 }
 
+hr {
+  height: 3px;
+  background-color: black;
+  border-color: white;
+}
+
 div {
     text-align: center;
     background-color: brown;
