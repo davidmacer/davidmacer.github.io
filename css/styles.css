@@ -41,6 +41,13 @@ a:visited {
   color: grey;
 }
 
+a:hover {
+  color: pink;
+}
+
+a:active {
+  color: white;
+}
 /* FOOTER */
 footer {
   font-size: 14px;
